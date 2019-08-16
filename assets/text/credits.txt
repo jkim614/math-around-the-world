@@ -1,0 +1,21 @@
+JOKentertainment
+
+presents
+
+Math Around the World
+v. 2.8
+
+Binghamton University, CS 110
+Summer 2019
+
+Executive Producer and Quality Assurance Specialist
+Yuqiao Huang
+
+Front End Specialist and Graphic Designer
+Jae Kim
+
+Back End Specialist and Sound Engineer
+Kimberly Meeker
+
+Inspiring Professor
+Steven Moore

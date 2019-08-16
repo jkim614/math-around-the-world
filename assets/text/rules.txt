@@ -1,0 +1,13 @@
+Math Around the World tests your math skills on location in different countries.
+
+To start the game, click the Start button on the Menu Screen. Then on the Country Selection Screen, click the button for the country you want to visit.
+
+On the Game Screen, your score and health status are displayed in the upper left corner. The answers you type on the keyboard will appear in the lower left corner. Boxes with math questions will begin falling from the sky. To earn points, you must answer the question closest to the ground by typing the correct answer and hitting ENTER before the box lands. Numerical answers may be integers or decimals to the tenths or hundredths place. Round any number longer than two places after the decimal to the nearest hundredth. If a box hits the ground before you answer correctly, you will lose one Health Icon.
+
+Periodically, a Bonus Question box will appear on the screen. Tapping the BACKQUOTE <`> key will display a figure related to the Bonus Question. If you answer the Bonus Question correctly before it disappears, you will earn an extra Health Icon. If your Health Icons bar is full, you will be awarded extra points. There is no penalty for missing the Bonus Question.
+
+The game ends when you have no Health Icons left and a final question box hits the ground. At the end of the game, you have the opportunity to play again by clicking the button to return to the Menu Screen.
+
+If at any time you wish to return to the previous screen, press the Escape key.
+
+Press the ESCAPE key now, and let’s travel the world with math!
